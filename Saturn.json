@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5fc897a0226f3ce68cd5271c"
+  },
+  "label": "Samsung",
+  "model": "Galaxy Tab s7",
+  "category": "Tablet",
+  "weight": 500,
+  "tags": [
+    "fast",
+    "new"
+  ],
+  "information": {
+    "made": "Vietnam",
+    "system": "Android"
+  },
+  "date": "Thu Dec 03 2020 08:45:36 GMT+0100"
+},{
+  "_id": {
+    "$oid": "5fc897e3226f3ce68cd5271e"
+  },
+  "label": "Apple",
+  "model": "iPad Pro",
+  "category": "Tablet",
+  "weight": 641,
+  "tags": [
+    "thin",
+    "large"
+  ],
+  "date": "Thu Dec 03 2020 08:46:43 GMT+0100"
+},{
+  "_id": {
+    "$oid": "5fc897e3226f3ce68cd5271f"
+  },
+  "label": "Apple",
+  "model": "iPad Air",
+  "category": "Tablet",
+  "weight": 460,
+  "tags": [
+    "thin"
+  ],
+  "date": "Thu Dec 03 2020 08:46:43 GMT+0100"
+}]
